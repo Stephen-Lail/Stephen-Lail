@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+--------------------------------------------------------------------
+My Name is Stephen Lail and I am a MS Marine Science Student at UNCW
 <!--
 **Stephen-Lail/Stephen-Lail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
