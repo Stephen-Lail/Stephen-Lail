@@ -1,8 +1,8 @@
 ## Hi there 👋
 --------------------------------------------------------------------
-My Name is Stephen Lail and I am a MS Marine Science Student at UNCW
-🔭 I'm currently working on a novel Biogeochemical Drifter design found here: https://github.com/COAST-Lab/Biogeochemical-Drifter
-🌱 I'm currently learning python and how it can be used to process physical and chemical sensor data
+My Name is Stephen Lail and I am a MS Marine Science Student at UNCW  return
+🔭 I'm currently working on a novel Biogeochemical Drifter design found here: https://github.com/COAST-Lab/Biogeochemical-Drifter  return
+🌱 I'm currently learning python and how it can be used to process physical and chemical sensor data  return
 📫 You can reach me at sml6042@uncw.edu if you have any questions
 <!--
 **Stephen-Lail/Stephen-Lail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
