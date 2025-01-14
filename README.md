@@ -1,7 +1,8 @@
 ## Hi there 👋
 --------------------------------------------------------------------
 My Name is Stephen Lail and I am a MS Marine Science Student at UNCW  <br>
-🔭 I'm currently working on a novel Biogeochemical Drifter design found here: https://github.com/COAST-Lab/Biogeochemical-Drifter  <br> 
+🔭 I'm currently working on a novel Biogeochemical Drifter design found here: https://github.com/COAST-Lab/Biogeochemical-Drifter.  <br> 
+This drifter is going to be used for studying dissolved oxygen dynamics in tidal creeks. <br>
 🌱 I'm currently learning python and how it can be used to process physical and chemical sensor data   <br>
 📫 You can reach me at sml6042@uncw.edu if you have any questions <br>
 <!--
